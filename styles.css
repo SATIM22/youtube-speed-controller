@@ -1,0 +1,19 @@
+.ytp-speed-button {
+    background: rgba(249, 11, 11, 0.7);
+    border: 1px white;
+    color: black;
+    padding: 5px;
+    margin: 2px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.ytp-speed-button:hover {
+    background: rgba(242, 247, 206, 0.9);
+}
+
+#current-speed {
+    /*
+    font-size: 14px;
+    color: rgb(189, 24, 24); */
+}
